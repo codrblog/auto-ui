@@ -10,3 +10,4 @@ jobs:
       name: codrblog/auto-ui
       baseImage: cloud-cli/node:latest
       defaultBranch: main
+      type: node
